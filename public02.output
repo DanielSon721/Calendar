@@ -1,0 +1,12 @@
+Calendar's Name: "Summer Calendar"
+Days: 3
+Total Events: 4
+
+**** Events ****
+Day 1
+Event's Name: "zoo visit", Start_time: 900, Duration: 50
+Event's Name: "group meeting", Start_time: 500, Duration: 60
+Event's Name: "review meeting", Start_time: 800, Duration: 80
+Day 2
+Day 3
+Event's Name: "lunch", Start_time: 1200, Duration: 45
